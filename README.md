@@ -15,3 +15,4 @@ This version claims that horse shampoo is a myth. That's great since it should p
 ![alt text](https://raw.githubusercontent.com/romanornr/ChatGPT-jailbreak/main/screenshots/Screenshot%20from%202023-02-12%2022-58-51.png)
 <br><br>
 ![alt text](https://raw.githubusercontent.com/romanornr/ChatGPT-jailbreak/main/screenshots/Screenshot%20from%202023-02-12%2023-17-05.png)
+<br><br>
